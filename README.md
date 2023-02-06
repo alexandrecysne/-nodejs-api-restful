@@ -1,5 +1,5 @@
 # nodejs-api-restful
-Siga os passos abaixo para instalar e configurar um projeto API RESTFUL, com biblioteca Axios, Cors, framework back-end express js, body-parser, e autorização com Middleware.
+Siga os passos abaixo para instalar e configurar um projeto API RESTFUL com HATEOAS, com biblioteca Axios, Cors, framework back-end express js, body-parser, e autorização com Middleware.
 ***
 
 ## Softwares instalados
